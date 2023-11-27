@@ -1,5 +1,4 @@
 # DataVisualization
-IDS Presentation Data Visualization in Python
 Data Visualization Python Code Repository
 Welcome to the Data Visualization Python Code Repository! This repository contains Python code snippets that illustrate various types of plots and graphs using popular libraries like Matplotlib and Seaborn. Whether you are a data scientist, analyst, or enthusiast, these examples will help you visualize your data effectively.
 
