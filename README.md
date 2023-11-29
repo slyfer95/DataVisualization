@@ -25,7 +25,7 @@ Welcome to the Data Visualization Python Code Repository! This repository contai
 20. Dependency Parse Tree
 21. Word Cloud
 
-#Tools and Libraries
+# Tools and Libraries
 1. Matplotlib
 2. Seaborn
 3. Plotly
