@@ -18,10 +18,20 @@ Welcome to the Data Visualization Python Code Repository! This repository contai
 13. Bubble Chart
 14. Cartogram
 15. Percentage Bar
-16. Pie Chart
-17. Undirected Graph
-18. Directed Graph
-19. Weighted Graph
-20. Bipartite Graph
-21. Dependency Parse Tree
-22. Word Cloud
+16. Undirected Graph
+17. Directed Graph
+18. Weighted Graph
+19. Bipartite Graph
+20. Dependency Parse Tree
+21. Word Cloud
+
+#Tools and Libraries
+1. Matplotlib
+2. Seaborn
+3. Plotly
+4. Bokeh
+5. Altair
+6. GeoPandas
+7. NetworkX
+8. Pandas Plotting
+9. Holoviews
